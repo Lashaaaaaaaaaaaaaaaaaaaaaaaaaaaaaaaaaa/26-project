@@ -1,3 +1,20 @@
 body {
-    background: aqua;
+    background:aqua;
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.second-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
