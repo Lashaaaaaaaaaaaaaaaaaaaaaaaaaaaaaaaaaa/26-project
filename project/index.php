@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project X</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>
+            <?php echo "About Myself"; ?>
+        </h1>
+        <div class="second-container">
+            <h4>
+                Hello, my name is Lasha Jijelava, i am skillwill academy student,
+                i live in Tbilisi at P.Saakadze 19, and last one my goal is to tell my mom "go mom, choose what you want, i'll buy it for you.
+        </h4>
+            <h4 class="contact">
+                My contact information:
+                <a href="#">
+                    557257952;
+                </a>
+            </a>
+                <a href="https://mail.google.com/mail/u/0/#inbox">
+                    Gmail: lasha0990@gmail.com;
+            </a>
+                <a href="https://www.linkedin.com/in/lashajijelava/">
+                    Linkedin: https://www.linkedin.com/in/lashajijelava/.
+            </a>
+        </h4>
+        </div>
+    </div>
+</body>
+</html>
